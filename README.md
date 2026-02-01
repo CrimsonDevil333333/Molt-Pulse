@@ -25,4 +25,28 @@ Simply run:
 molt-pulse
 ```
 
+## 📊 Output Structure
+
+When executed, Molt-Pulse provides a structured summary like the following:
+
+```text
+🦞 MOLT-PULSE v1.1.0 - The Professional Server Vibe-Check
+
+● OS: Debian GNU/Linux 13 (arm64)
+● Uptime: 9.6 hours
+CPU Mood: Chill 😴 (5.1%)
+Heart Rate: 47.95°C
+Memory Vibe: 35.0% Active (5.5GB / 15.8GB)
+Network: RX: 0.0 KB/s | TX: 0.0 KB/s
+Docker: 27 Containers Running 🐳
+
+Storage Map:
+  → /               38.9% Used [43.6G/117.0G]
+  → /boot/firmware  12.8% Used [0.1G/0.5G]
+  → /mnt/ssd        64.2% Used [1224.5G/1907.7G]
+
+ VERDICT: GO TOUCH GRASS. EVERYTHING IS FINE.  🌱
+```
+
 ---
+*Maintained by Satyaa & Clawdy 🦞*

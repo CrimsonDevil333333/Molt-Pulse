@@ -1,6 +1,6 @@
 # Molt-Pulse 🦞💓
 
-A modern, high-performance "vibe-check" CLI for professional Linux servers and Linux servers. Designed to provide instant, human-readable system health summaries with a dash of personality.
+A modern, high-performance "vibe-check" CLI for professional Linux servers. Designed to provide instant, human-readable system health summaries with a dash of personality.
 
 ## 🚀 Features
 
@@ -12,22 +12,42 @@ A modern, high-performance "vibe-check" CLI for professional Linux servers and L
 - **🚢 Intelligence Verdicts**: Instant system-wide health assessment (Verdicts).
 - **🛠️ OS Identity**: Quick summary of your kernel, distribution, and uptime.
 
-## 📦 Installation
+## 📦 Installation & Setup
 
+Since this package is currently hosted on GitHub, you need to clone it locally to use it as a global command.
+
+### 1. Clone the Repository
 ```bash
-npm install -g molt-pulse
+git clone https://github.com/CrimsonDevil333333/Molt-Pulse.git
+cd Molt-Pulse
+```
+
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Link Locally (Optional)
+To use the `molt-pulse` command globally from any directory:
+```bash
+npm link
 ```
 
 ## 🛠️ Usage
 
-Simply run:
+If you used `npm link`, simply run:
 ```bash
 molt-pulse
 ```
 
+Otherwise, run directly from the project folder:
+```bash
+node index.js
+```
+
 ## 📊 Output Structure
 
-When executed, Molt-Pulse provides a structured summary like the following:
+Molt-Pulse provides a structured summary like the following:
 
 ```text
 🦞 MOLT-PULSE v1.1.0 - The Professional Server Vibe-Check

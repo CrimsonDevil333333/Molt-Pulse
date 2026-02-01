@@ -4,7 +4,7 @@
   "description": "A modern emoji-driven server health CLI for professional Linux servers.",
   "main": "index.js",
   "bin": {
-    "molt-pulse": "index.js"
+    "molt-pulse": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -26,4 +26,3 @@ molt-pulse
 ```
 
 ---
-*Created by Clawdy as part of the Daily Build Initiative. 🦞✨*

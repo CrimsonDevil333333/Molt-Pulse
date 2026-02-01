@@ -1,6 +1,6 @@
 # Molt-Pulse 🦞💓
 
-A modern, high-performance "vibe-check" CLI for professional Linux servers and Raspberry Pi 5. Designed to provide instant, human-readable system health summaries with a dash of personality.
+A modern, high-performance "vibe-check" CLI for professional Linux servers and Linux servers. Designed to provide instant, human-readable system health summaries with a dash of personality.
 
 ## 🚀 Features
 
